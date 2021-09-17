@@ -1,7 +1,7 @@
 # DOF Exam 2021.09.18
 Exam Repository for DevOps Fundamentals course (2021.07) @ SoftUni
 
-A set of two containerized applications.
+A set of two containerized applications. Each of them is object of a particular part of the exam.
 
 ## Application 1 ##
 A single container application which accepts an evironment variable APP_VARIABLE with a name (you should specify your SoftUni ID).
