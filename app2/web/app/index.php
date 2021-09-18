@@ -35,6 +35,7 @@
 	<body style="background-color: #ffffff;">
 		<div align="center">
 			<h1>New tool every day, keeps the boss ... satisfied :)</h1>
+			<h1>Vlad Naumov is a master DevOps Engineer :)</h1>
 			<br /><br /><br />
 			<img width="800px" src="images/<?php echo $tools[$tool][1]; ?>" alt="<?php echo $tools[$tool][0]; ?>">
 			<br /><br /><br />
